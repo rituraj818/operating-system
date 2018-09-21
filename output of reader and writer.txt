@@ -1,4 +1,0 @@
-t1 is reader
-t2 is reader
-
-is Writer
